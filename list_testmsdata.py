@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+# edit for testing
 # converted to a script from jupyter notebook 
 ####
 # # Check contents of the MS data in casatestdata
